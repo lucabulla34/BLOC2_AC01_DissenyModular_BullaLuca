@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DissenyModular
+/bin/Debug/net9.0
+/DissenyModular.csproj
+/DissenyModular.sln
+/obj
